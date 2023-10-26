@@ -1,0 +1,19 @@
+{
+  "name": "express_ej1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e3.js",
+  "scripts": {
+    "start": "node e3.js",
+    "dev":"nodemon e3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
